@@ -147,6 +147,7 @@ Both admins and companies can preview student resumes inline. Students can view 
 ## Backend repo
 
 The frontend expects a Spring Boot backend running at the configured base URL. The backend handles JWT issuance and validation, role enforcement, Cloudinary integration for resume storage, and all business logic. The API base path is `/api` and all routes are prefixed accordingly (`/api/admin/...`, `/api/company/...`, etc.).
+https://github.com/MUGADA-ASHOK/Placement_Management_System
 
 ---
 
