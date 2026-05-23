@@ -1,4 +1,4 @@
-# DriveFlow — Placement Drive Management System
+# PlacementHub — Placement Drive Management System
 
 DriveFlow is a full-stack web application built to manage campus placement drives end-to-end. It handles everything from registering companies and posting drives, to students applying, companies scoring candidates round by round, and admins overseeing the whole process. The idea is to replace the usual mess of spreadsheets and WhatsApp forwards with something that actually works.
 
